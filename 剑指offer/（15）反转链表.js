@@ -1,3 +1,4 @@
+//对链表本身进行修改
 /* function ListNode(x){
  this.val = x;
  this.next = null;
